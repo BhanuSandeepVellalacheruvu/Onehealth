@@ -313,6 +313,53 @@
 
     </div>
   </footer>
+      <script>
+        function toggleChat() {
+            var chatButton = document.getElementById("chatButton");
+            var chatPopup = document.getElementById("chatPopup");
+
+            if (chatPopup.style.display === "none") {
+                chatPopup.style.display = "block";
+                chatButton.style.display = "none";
+                loadWebChat();
+
+                // Add event listener to close chat when clicking outside the chat box
+                document.addEventListener("click", closeChatOutside);
+            } else {
+                chatPopup.style.display = "none";
+                chatButton.style.display = "block";
+                unloadWebChat();
+
+                // Remove event listener when chat is closed
+                document.removeEventListener("click", closeChatOutside);
+            }
+        }
+
+        function loadWebChat() {
+            var iframe = document.getElementById("chatIframe");
+            iframe.src = "https://webchat.botframework.com/embed/onehealth-nsi022e?s=8pTv-l6yLhg.-PYT0aqYkoUjOjo5zaAnyJge-LyeefFR5aVSqh7xgEc";
+        }
+
+        function unloadWebChat() {
+            var iframe = document.getElementById("chatIframe");
+            iframe.src = "";
+        }
+
+        function closeChatOutside(event) {
+            var chatPopup = document.getElementById("chatPopup");
+            var chatButton = document.getElementById("chatButton");
+
+            if (!chatPopup.contains(event.target) && !chatButton.contains(event.target)) {
+                chatPopup.style.display = "none";
+                chatButton.style.display = "block";
+                unloadWebChat();
+
+                // Remove event listener after chat is closed
+                document.removeEventListener("click", closeChatOutside);
+            }
+        }
+    </script>
+
 
 <script src="../assets/js/jquery-3.5.1.min.js"></script>
 
