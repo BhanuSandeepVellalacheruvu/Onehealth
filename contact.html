@@ -240,52 +240,53 @@
 
     </div>
   </footer>
-     <script>
-    function toggleChat() {
-      var chatButton = document.getElementById("chatButton");
-      var chatPopup = document.getElementById("chatPopup");
-      
-      if (chatPopup.style.display === "none") {
-        chatPopup.style.display = "block";
-        chatButton.style.display = "none";
-        loadWebChat();
+    <script>
+        function toggleChat() {
+            var chatButton = document.getElementById("chatButton");
+            var chatPopup = document.getElementById("chatPopup");
 
-        // Add event listener to close chat when clicking outside the chat box
-        document.addEventListener("click", closeChatOutside);
-      } else {
-        chatPopup.style.display = "none";
-        chatButton.style.display = "block";
-        unloadWebChat();
+            if (chatPopup.style.display === "none") {
+                chatPopup.style.display = "block";
+                chatButton.style.display = "none";
+                loadWebChat();
 
-        // Remove event listener when chat is closed
-        document.removeEventListener("click", closeChatOutside);
-      }
-    }
+                // Add event listener to close chat when clicking outside the chat box
+                document.addEventListener("click", closeChatOutside);
+            } else {
+                chatPopup.style.display = "none";
+                chatButton.style.display = "block";
+                unloadWebChat();
 
-    function loadWebChat() {
-      var iframe = document.getElementById("chatIframe");
-      iframe.src = "https://webchat.botframework.com/embed/petology-yfgn0vy?s=P4ccw9uGp7Y.jCVauVqo_pAD05vwcSEaN5AcS7bQtPma3QCusVhril8";
-    }
+                // Remove event listener when chat is closed
+                document.removeEventListener("click", closeChatOutside);
+            }
+        }
 
-    function unloadWebChat() {
-      var iframe = document.getElementById("chatIframe");
-      iframe.src = "";
-    }
+        function loadWebChat() {
+            var iframe = document.getElementById("chatIframe");
+            iframe.src = "https://webchat.botframework.com/embed/onehealth-nsi022e?s=8pTv-l6yLhg.-PYT0aqYkoUjOjo5zaAnyJge-LyeefFR5aVSqh7xgEc";
+        }
 
-    function closeChatOutside(event) {
-      var chatPopup = document.getElementById("chatPopup");
-      var chatButton = document.getElementById("chatButton");
-      
-      if (!chatPopup.contains(event.target) && !chatButton.contains(event.target)) {
-        chatPopup.style.display = "none";
-        chatButton.style.display = "block";
-        unloadWebChat();
+        function unloadWebChat() {
+            var iframe = document.getElementById("chatIframe");
+            iframe.src = "";
+        }
 
-        // Remove event listener after chat is closed
-        document.removeEventListener("click", closeChatOutside);
-      }
-    }
-  </script>
+        function closeChatOutside(event) {
+            var chatPopup = document.getElementById("chatPopup");
+            var chatButton = document.getElementById("chatButton");
+
+            if (!chatPopup.contains(event.target) && !chatButton.contains(event.target)) {
+                chatPopup.style.display = "none";
+                chatButton.style.display = "block";
+                unloadWebChat();
+
+                // Remove event listener after chat is closed
+                document.removeEventListener("click", closeChatOutside);
+            }
+        }
+    </script>
+
 
 <script src="../assets/js/jquery-3.5.1.min.js"></script>
 
