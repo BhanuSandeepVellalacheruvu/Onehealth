@@ -4,7 +4,7 @@
 This is a static page deployed on azure static web app and used azure health bot to interact with the pwople who are using this webpage,The programming languages used to develop this app is html,jquery,css,javascript.This is a web based application developed for health of pets based website in india This web based application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY
 
 
-## Project Link: **https://gray-bush-052160100.3.azurestaticapps.net/)**
+## Project Link: **https://gray-bush-052160100.3.azurestaticapps.net/**
 ## Project Demo URL:
 ## Azure technologies used for Project are-
 
