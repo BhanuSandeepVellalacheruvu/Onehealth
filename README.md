@@ -71,6 +71,10 @@ This is a static page deployed on azure static web app and used azure health bot
 
 3.Create azure health bot service and note the webchat secret key and tenant name and replace them w.r.to the code deployed in github
 
+<img width="960" alt="image" src="https://github.com/BhanuSandeepVellalacheruvu/Onehealth/assets/118993028/9975456b-129f-43ca-88d4-eae1b0262f3c">
+
+<img width="960" alt="image" src="https://github.com/BhanuSandeepVellalacheruvu/Onehealth/assets/118993028/0bc6c021-1391-49d2-bae7-b16fd174425e">
+
 ![Screenshot (153)](https://github.com/BhanuSandeepVellalacheruvu/Onehealth/assets/118993028/e22c8843-918f-40bb-ae00-50303e6850a9)
 
 
