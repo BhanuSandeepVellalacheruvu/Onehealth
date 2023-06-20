@@ -1,5 +1,3 @@
-### Project Link: **https://gray-bush-052160100.3.azurestaticapps.net/**
-### Project Demo URL: **https://drive.google.com/file/d/1CzdkW1pk_-JXcgEKAV8eatVEY21nedVu/view?usp=sharing**
 
 <div align="center">
 
