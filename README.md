@@ -1,14 +1,13 @@
-
-# One health
-
-This is a static page deployed on azure static web app and used azure health bot to interact with the pwople who are using this webpage,The programming languages used to develop this app is html,jquery,css,javascript.This is a web based application developed for health of pets based website in india This web based application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY
-
-
 ### Project Link: **https://gray-bush-052160100.3.azurestaticapps.net/**
 ### Project Demo URL: **https://drive.google.com/file/d/1CzdkW1pk_-JXcgEKAV8eatVEY21nedVu/view?usp=sharing**
-### Azure technologies used for Project are-
 
-## One Health - Online Healthcare Platform
+<div align="center">
+
+<h1>One Health - Online Healthcare Platform</h1>
+
+</div>
+
+
 
 ### Project Description
 
@@ -45,7 +44,7 @@ One Health is deployed on the Azure cloud platform. The deployment process ensur
 To access the One Health platform, follow these steps:
 
 1. Open a web browser.
-2. Navigate to the deployed website URL (provide the URL or domain name here).
+2. Navigate to the deployed website URL **https://gray-bush-052160100.3.azurestaticapps.net/**
 3. Explore the various features offered by the platform, such as appointment booking, virtual consultations, and access to health-related blogs and news articles.
 4. Enjoy a seamless and comprehensive online healthcare experience!
 
@@ -68,16 +67,30 @@ The One Health project is an ongoing endeavor, and there are several potential e
 
 ### Screenshots
 
-![Screenshot 1](https://github.com/BhanuSandeepVellalacheruvu/Onehealth/raw/assets/118993028/3581bf20-dc92-49a4-8ded-c435ecd880dd.png)
-![Screenshot 2](https://github.com/BhanuSandeepVellalacheruvu/Onehealth/raw/assets/118993028/e349df36-3614-4094-ba14-1865d87e427e.png)
-![Screenshot 3](https://github.com/BhanuSandeepVellalacheruvu/Onehealth/raw/assets/118993028/2d42220e-236f-4a91-8c64-04c4c7017cb5.png)
-![Screenshot 4](https://github.com/BhanuSandeepVellalacheruvu/Onehealth/raw/assets/118993028/12470307-c1fa-4fb6-936b-5d9c1a94ae2d.png)
-![Screenshot 5](https://github.com/BhanuSandeepVellalacheruvu/Onehealth/raw/assets/118993028/9261462c-fcfb-4bab-8c7f-bd6f732c1fdf.png)
-![Screenshot 6](https://github.com/BhanuSandeepVellalacheruvu/Onehealth/raw/assets/118993028/96010859-677d-426d-9475-47bc173ff3c5.png)
-![Screenshot 7](https://github.com/BhanuSandeepVellalacheruvu/Onehealth/raw/assets/118993028/26e9b3f9-dca0-4be3-8bb8-ed6b8f2b8b55.png)
-![Screenshot 8](https://github.com/BhanuSandeepVellalacheruvu/Onehealth/raw/assets/118993028/2208d46e-17ad-481a-98a5-0de4ce986612.png)
-![Screenshot 9](https://github.com/BhanuSandeepVellalacheruvu/Onehealth/raw/assets/118993028/49317b24-8787-4ba2-a15b-ac6f6b12bf61.png)
-![Screenshot 10](https://github.com/BhanuSandeepVellalacheruvu/Onehealth/raw/assets/118993028/5f5c078d-79b7-4110-94a9-d0da233c82e0.png)
+
+<img width="960" alt="Screenshot 2023-06-20 010444" src="https://github.com/BhanuSandeepVellalacheruvu/Onehealth/assets/118993028/8dc31a8d-7f6c-413b-bd4a-3d9dce2f785d">
+
+<img width="960" alt="Screenshot 2023-06-20 010500" src="https://github.com/BhanuSandeepVellalacheruvu/Onehealth/assets/118993028/e1017bf2-cb25-432b-8c95-0f066a880355">
+
+<img width="960" alt="Screenshot 2023-06-20 010520" src="https://github.com/BhanuSandeepVellalacheruvu/Onehealth/assets/118993028/c765d530-2a89-4ec7-a9a7-9f97d00b951e">
+
+<img width="960" alt="Screenshot 2023-06-20 010534" src="https://github.com/BhanuSandeepVellalacheruvu/Onehealth/assets/118993028/d0dcf185-5f42-44bd-b85f-31dcb2287eab">
+
+<img width="960" alt="Screenshot 2023-06-20 010547" src="https://github.com/BhanuSandeepVellalacheruvu/Onehealth/assets/118993028/18630de9-9ee3-439e-a4ea-8048c848954e">
+
+<img width="960" alt="Screenshot 2023-06-20 010604" src="https://github.com/BhanuSandeepVellalacheruvu/Onehealth/assets/118993028/aa91dbdd-69fe-4e7c-bcf3-6602e93bb400">
+
+<img width="960" alt="Screenshot 2023-06-20 010627" src="https://github.com/BhanuSandeepVellalacheruvu/Onehealth/assets/118993028/3c56c842-a21c-4b8c-a0ed-016a5e6ba173">
+
+<img width="960" alt="Screenshot 2023-06-20 010641" src="https://github.com/BhanuSandeepVellalacheruvu/Onehealth/assets/118993028/dca9d92a-4bfa-4697-830d-a77bf8309f86">
+
+<img width="960" alt="Screenshot 2023-06-20 010724" src="https://github.com/BhanuSandeepVellalacheruvu/Onehealth/assets/118993028/6d2d7f63-e845-45d3-9d4e-703117457bfc">
+
+### User-Friendlychatbot
+
+<img width="281" alt="Screenshot 2023-06-21 004009" src="https://github.com/BhanuSandeepVellalacheruvu/Onehealth/assets/118993028/82fbfcec-aa66-4749-8562-5caea45617b3">
+
+![Screenshot (154)](https://github.com/BhanuSandeepVellalacheruvu/Onehealth/assets/118993028/2287c84b-8aac-4ef1-a417-b7838d4f3549)
 
 ### Deployment
 
@@ -85,12 +98,23 @@ The One Health project is an ongoing endeavor, and there are several potential e
 
 2. Create a resource group and a resource named "Static Web Apps" within it. Link your GitHub profile to this resource.
 
-    ![Resource Creation](https://github.com/BhanuSandeepVellalacheruvu/Onehealth/raw/assets/118993028/2f505fe1-fd46-405f-ad8a-9145535b739d.png)
-    ![GitHub Link](https://github.com/BhanuSandeepVellalacheruvu/Onehealth/raw/assets/118993028/4d5ebebb-7615-4d05-83b9-854d9172af61.png)
 
-3. Create an Azure Health Bot service and note the WebChat secret key and tenant name. Replace the respective values in the code deployed on GitHub.
+    ![Resource Creation]
+   <img width="959" alt="Screenshot 2023-06-20 012916" src="https://github.com/BhanuSandeepVellalacheruvu/Onehealth/assets/118993028/fbb6422a-e4fe-48bb-a825-da0971f70fe6">
 
-    ![Health Bot Creation](https://github.com/BhanuSandeepVellalacheruvu/Onehealth/raw/assets/118993028/9975456b-129f-43ca-88d4-eae1b0262f3c.png)
-    ![WebChat Configuration](https://github.com/BhanuSandeepVellalacheruvu/Onehealth/raw/assets/118993028/0bc6c021-1391-49d2-bae7-b16fd174425e.png)
-    
-![Screenshot 11](https://github.com/BhanuSandeepVellalacheruvu/Onehealth/raw/assets/118993028/e22c8843-918f-40bb-ae00-50303e6850a9.png)
+<img width="960" alt="Screenshot 2023-06-20 013239" src="https://github.com/BhanuSandeepVellalacheruvu/Onehealth/assets/118993028/bacca26e-215f-40af-9354-d1fae726f702">
+
+
+<img width="949" alt="Screenshot 2023-06-20 013325" src="https://github.com/BhanuSandeepVellalacheruvu/Onehealth/assets/118993028/c2bacf50-5f78-40e1-b8fa-5b39b09f272f">
+
+4. Create an Azure Health Bot service and note the WebChat secret key and tenant name. Replace the respective values in the code deployed on GitHub.
+
+    ![Health Bot Creation]
+   <img width="960" alt="Screenshot 2023-06-20 014014" src="https://github.com/BhanuSandeepVellalacheruvu/Onehealth/assets/118993028/a8432203-3a89-4eaf-9c01-dc61cf0f3cbe">
+
+   
+    ![WebChat Configuration]
+
+   <img width="958" alt="Screenshot 2023-06-20 015111" src="https://github.com/BhanuSandeepVellalacheruvu/Onehealth/assets/118993028/b8a36838-2fb0-4937-9576-f543e54dc773">
+   <img width="836" alt="Screenshot 2023-06-20 015244" src="https://github.com/BhanuSandeepVellalacheruvu/Onehealth/assets/118993028/725daf2b-6500-4cd8-804c-5d01a84869bf">
+
