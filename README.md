@@ -63,6 +63,7 @@ This is a static page deployed on azure static web app and used azure health bot
 ## Deployment
 
 1.upload your code files in the github.
+
 2.Create a resource group and create a resource named static web apps in that and then link your github profile.
 
 <img width="959" alt="image" src="https://github.com/BhanuSandeepVellalacheruvu/Onehealth/assets/118993028/2f505fe1-fd46-405f-ad8a-9145535b739d">
