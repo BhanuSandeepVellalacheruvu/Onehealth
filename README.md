@@ -116,3 +116,17 @@ The One Health project is an ongoing endeavor, and there are several potential e
    <img width="958" alt="Screenshot 2023-06-20 015111" src="https://github.com/BhanuSandeepVellalacheruvu/Onehealth/assets/118993028/b8a36838-2fb0-4937-9576-f543e54dc773">
    <img width="836" alt="Screenshot 2023-06-20 015244" src="https://github.com/BhanuSandeepVellalacheruvu/Onehealth/assets/118993028/725daf2b-6500-4cd8-804c-5d01a84869bf">
 
+
+
+
+
+
+
+
+
+<div align="center">
+ <h1>Project Demo Video URL: https://drive.google.com/file/d/1CzdkW1pk_-JXcgEKAV8eatVEY21nedVu/view?usp=sharing      </h1> 
+
+    
+ <h1>Project Url:https://gray-bush-052160100.3.azurestaticapps.net/</h1>
+</div>
