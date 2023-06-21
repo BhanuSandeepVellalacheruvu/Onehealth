@@ -7,13 +7,13 @@
 
 
 
-### Project Description
+## Project Description
 
 One Health is a static web page developed as part of the internship program for Future Ready Talent. The project aims to address the challenges faced by individuals when seeking convenient and comprehensive health-related services online. The existing platforms often lack a cohesive and user-friendly interface, leading to a fragmented user experience and limited access to reliable healthcare resources.
 
 One Health provides a solution to these challenges by offering a well-designed webpage that integrates various features such as appointment booking, virtual consultations, and a rich repository of blogs and news articles. This platform aims to provide users with a seamless and comprehensive online healthcare experience.
 
-### Key Features
+## Key Features
 
 1. **Appointment Booking:** Users can conveniently book appointments with healthcare professionals through the One Health platform. The booking process is intuitive and user-friendly.
 
@@ -23,7 +23,7 @@ One Health provides a solution to these challenges by offering a well-designed w
 
 4. **User-Friendly Interface:** One Health prioritizes providing a cohesive and user-friendly interface, ensuring a seamless experience for users. The platform is designed to be intuitive and easy to navigate.
 
-### Technologies Used
+## Technologies Used
 
 [![HTML](https://img.shields.io/badge/HTML-5-orange?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS](https://img.shields.io/badge/CSS-3-blue?style=flat-square&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
@@ -33,11 +33,11 @@ One Health provides a solution to these challenges by offering a well-designed w
 [![Azure](https://img.shields.io/badge/Azure-Cloud-blue?style=flat-square&logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com/)
 [![Azure Health Bot](https://img.shields.io/badge/Azure%20Health%20Bot-Conversational%20AI-blue?style=flat-square&logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com/services/health-bot/)
 
-### Deployment
+## Deployment
 
 One Health is deployed on the Azure cloud platform. The deployment process ensures that the web page is accessible to users online. The platform leverages the scalability and reliability of Azure for hosting the static web page and providing a seamless user experience.
 
-### Getting Started
+## Getting Started
 
 To access the One Health platform, follow these steps:
 
@@ -46,7 +46,7 @@ To access the One Health platform, follow these steps:
 3. Explore the various features offered by the platform, such as appointment booking, virtual consultations, and access to health-related blogs and news articles.
 4. Enjoy a seamless and comprehensive online healthcare experience!
 
-### Future Enhancements
+## Future Enhancements
 
 The One Health project is an ongoing endeavor, and there are several potential enhancements planned for the future. Some of the areas that can be improved and expanded upon include:
 
@@ -55,15 +55,15 @@ The One Health project is an ongoing endeavor, and there are several potential e
 - Multi-language support to cater to users from different regions and linguistic backgrounds.
 - Integration with third-party healthcare providers for seamless appointment scheduling and access to a broader network of healthcare professionals.
 
-### Contributors
+## Contributors
 
 **VELLALACHERUVU BHANU SANDEEP**
 
-### License
+## License
 
 **This project is made as a part of internship project for FRT**
 
-### Screenshots
+## Screenshots
 
 
 <img width="960" alt="Screenshot 2023-06-20 010444" src="https://github.com/BhanuSandeepVellalacheruvu/Onehealth/assets/118993028/8dc31a8d-7f6c-413b-bd4a-3d9dce2f785d">
@@ -90,7 +90,7 @@ The One Health project is an ongoing endeavor, and there are several potential e
 
 ![Screenshot (154)](https://github.com/BhanuSandeepVellalacheruvu/Onehealth/assets/118993028/2287c84b-8aac-4ef1-a417-b7838d4f3549)
 
-### Deployment
+## Deployment
 
 1. Upload your code files to GitHub.
 
