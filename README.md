@@ -125,8 +125,5 @@ The One Health project is an ongoing endeavor, and there are several potential e
 
 
 <div align="center">
- <h1>Project Demo Video URL: https://drive.google.com/file/d/1CzdkW1pk_-JXcgEKAV8eatVEY21nedVu/view?usp=sharing      </h1> 
-
-    
  <h1>Project Url:https://gray-bush-052160100.3.azurestaticapps.net/</h1>
 </div>
